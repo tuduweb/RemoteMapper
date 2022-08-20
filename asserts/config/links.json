@@ -1,0 +1,62 @@
+{
+    "podsystem": {
+        "creationDate": 1613922909,
+        "displayName": "网络摄像头通信",
+        "type": "Serial",
+        "settings": {
+            "port": "COM5",
+            "baud": 115200,
+            "parity": 0,
+            "databits": 8,
+            "stopbits": 1,
+            "flowControl": 0
+        },
+        "lastConnected": 1614584221,
+        "lastUpdatedDate": 1613922909
+    },
+    "podcamera": {
+        "creationDate": 1613922909,
+        "displayName": "吊舱摄像头",
+        "type": "Serial",
+        "settings": {
+            "port": "COM6",
+            "baud": 19200,
+            "parity": 0,
+            "databits": 8,
+            "stopbits": 1,
+            "flowControl": 0
+        },
+        "lastConnected": 1614584221,
+        "lastUpdatedDate": 1613922909
+    },
+    "wurdyhnaqpuo": {
+        "creationDate": 1613922909,
+        "displayName": "SONY265通信",
+        "type": "Serial",
+        "settings": {
+            "port": "COM1",
+            "baud": 115200,
+            "parity": 0,
+            "databits": 8,
+            "stopbits": 1,
+            "flowControl": 0
+        },
+        "lastConnected": 1614584221,
+        "lastUpdatedDate": 1613922909
+    },
+    "wurdyhnaqpu1": {
+        "creationDate": 1613922909,
+        "displayName": "UPA640通信",
+        "type": "Serial",
+        "settings": {
+            "port": "COM2",
+            "baud": 19200,
+            "parity": 0,
+            "databits": 8,
+            "stopbits": 1,
+            "flowControl": 0
+        },
+        "lastConnected": 1614584221,
+        "lastUpdatedDate": 1613922909
+    }
+}

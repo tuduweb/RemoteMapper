@@ -1,0 +1,51 @@
+{
+    "remotesony265": {
+        "links": [
+            "wurdyhnaqpuo"
+        ],
+        "streams": [
+            "abcdefghijkl"
+        ],
+        "creationDate": 1615534195,
+        "displayName": "SONY265摄像头",
+        "lastUpdatedDate": 1615534195
+    },
+    "remotepodsystem": {
+        "links": [
+            "podsystem",
+            "podcamera"
+        ],
+        "streams": [
+            "rtspfornetcamera",
+            "sdicamerasony"
+        ],
+        "mapping": {
+            "podsystem": "rtspfornetcamera",
+            "podcamera": "sdicamerasony"
+        },
+        "creationDate": 1615607307,
+        "displayName": "吊舱系统",
+        "lastUpdatedDate": 1615607307
+    },
+    "remoteupa640": {
+        "links": [
+            "wurdyhnaqpu1"
+        ],
+        "streams": [
+            "bbbbefghibbb"
+        ],
+        "creationDate": 1615606598,
+        "displayName": "UPA640红外摄像头",
+        "lastUpdatedDate": 1615606598
+    },
+    "usbcamerasystem": {
+        "links": [
+        ],
+        "streams": [
+            "bbbbefghibbc"
+        ],
+        "creationDate": 1615606598,
+        "displayName": "USB摄像头",
+        "lastUpdatedDate": 1615606598
+    }
+}

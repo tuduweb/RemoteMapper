@@ -1,0 +1,21 @@
+{
+    "settings": [
+        {
+            "displayName": "自动曝光时间",
+            "settings": {}
+        },
+        {
+            "displayName": "自动调光功能"
+        },
+        {
+            "displayName": "自动调增益功能"
+        },
+        {
+            "displayName": "自动白平衡功能"
+        },
+        {
+            "displayName": "低照度"
+        }
+    ],
+    "disabledIDs" : [128,2,3,4]
+}

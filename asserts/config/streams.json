@@ -1,0 +1,53 @@
+{
+    "abcdefghijkl": {
+        "creationDate": 1613922909,
+        "displayName": "SONY265视频流",
+        "type": "AMESDK",
+        "settings": {
+            "source": 4
+        },
+        "lastConnected": 0,
+        "lastUpdatedDate": 1613922909
+    },
+    "bbbbefghibbb": {
+        "creationDate": 1613922909,
+        "displayName": "UPA640视频流",
+        "type": "AMESDK",
+        "settings": {
+            "source": 5
+        },
+        "lastConnected": 0,
+        "lastUpdatedDate": 1613922909
+    },
+    "bbbbefghibbc": {
+        "creationDate": 1613922909,
+        "displayName": "USB3.0XIMEA",
+        "type": "XIMEA",
+        "settings": {
+            "source": 4
+        },
+        "lastConnected": 0,
+        "lastUpdatedDate": 1613922909
+    },
+        "sdicamerasony": {
+        "creationDate": 1613922909,
+        "displayName": "吊舱摄像头",
+        "type": "AMESDK",
+        "settings": {
+            "source": 4
+        },
+        "lastConnected": 0,
+        "lastUpdatedDate": 1613922909
+    },
+        "rtspfornetcamera": {
+        "creationDate": 1613922909,
+        "displayName": "网络摄像头",
+        "type": "RTSP",
+        "settings": {
+            "url": "rtsp://192.168.1.10:554/user=admin&password=&channel=1&stream=0.sdp?",
+            "timeout": 10
+        },
+        "lastConnected": 0,
+        "lastUpdatedDate": 1613922909
+    }
+}

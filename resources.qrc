@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/config">
+        <file>asserts/config/streams.json</file>
+    </qresource>
+</RCC>
